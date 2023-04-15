@@ -1,6 +1,6 @@
 # nodejs-train-schedule-app
 
-This is a simple train schedule app written using nodejs. It's intended to be used as a sample application for a series of hands-on learning activities, like CICD, Docker and cloud.
+This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities, like CICD, Docker and cloud.
 
 ## Running the app
 
